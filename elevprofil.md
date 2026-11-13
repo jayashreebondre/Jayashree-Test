@@ -1,6 +1,5 @@
 # Min elevprofil
 
-Namn: Fyll i ditt namn här
+Namn: Jayshree Bondre
 
-Det här vill jag lära mig om Git:
-Skriv en mening här.
+Jag vill lära mig Git och GitHub för att bli bättre på programmering.
